@@ -1,10 +1,59 @@
-table,tr,td,th{
-    background-color: #f0f0f0;
+/* Home Page */
+#Education{
+    background-color: #00ff00;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.head{
+    background-color: 060ff;
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
 }
-thead,th{
-    background-color: aqua;
+.Degree{
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
+/* project page */
+.project{
+    background-color: #ff00e4;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+#Transport{
+    background-color: #f0f0f0;
+    border: 1px solid black;
+}
+
+    /* Skills Page  */
+    #skills-head{
+        background-color: #900;
+        border: 1px solid black;
+    }
+    .skills{
+        background-color: aliceblue;
+        border: 1px solid black;
+        text-align: center;
+        border-collapse: collapse;
+    }
+    
+
+/* contact page */
+#caption{
+    background-color: #e00;
+    border: 1px solid black;
+}
+.contact-page{
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.form{
+    background-color: antiquewhite;
+}
